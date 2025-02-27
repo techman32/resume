@@ -1,7 +1,7 @@
 import type {NextConfig} from 'next'
 
 const nextConfig: NextConfig = {
-  basePath: '/Resume',
+  basePath: '/resume',
   output: 'export',
   distDir: 'dist',
   images: {

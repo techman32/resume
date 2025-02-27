@@ -13,7 +13,7 @@ export default function Home() {
       <span className={'absolute w-screen h-48 bg-purple-500 -top-16 opacity-100 blur-3xl'}></span>
       <span className={'absolute w-1/3 -left-20 h-32 bg-amber-50 rounded-full -top-8 opacity-100 blur-3xl'}></span>
       <div className={'relative overflow-hidden h-48 w-48 rounded-full mb-8'}>
-        <Image src="/images/me.jpg" alt="Фотография меня" fill className="object-cover"/>
+        <Image src="/resume/images/me.jpg" alt="Фотография меня" fill className="object-cover"/>
       </div>
       <h1 className={'text-3xl font-bold mb-4'}>Клочко Александр</h1>
       <p className={'bg-purple-600 py-2 px-4 rounded-lg'}>Fullstack Developer</p>
